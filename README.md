@@ -12,6 +12,6 @@ A software system for managing library books and members.
 - `tests/` - Unit tests
 
 ## Getting Started
-1. Clone the repository
+1. Clone the repository: 'https://github.com/zaheerahxxx/lms-project.git'
 2. Install dependencies: 'pip install -r requirements.txt'
 3. Run tests: 'pytest'
